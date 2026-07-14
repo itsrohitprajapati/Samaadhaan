@@ -1,16 +1,9 @@
 # samaadhaan
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Samaadhaan is a Government Complaints Applica)on Designed and Developed using Flu$er Framework,
+Firebase for the backend including CRUD Opera>ons, mul>ple Flu$er Packages for diﬀerent features.
+2. Samaadhaan is built for a hassle free complaint registra6on as it supports all types of complaints on single
+pla[orm, a user can select the par>cular Ministry under which his/her complaint falls and can register
+complaint.s
+3. Key Features:
+Mobile OTP Verifica>on, Human Verifica>on, Mul>lingual Speech-to-text Support, Image Upload
